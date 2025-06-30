@@ -1,0 +1,1 @@
+ayarlar.jsondan token sunucu id ve fonksiyonlar için ayarlamalar yapmanız gerekmekde herkesı banlama ile herkesi kickleme aynı anda açık olmamalı!
